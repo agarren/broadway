@@ -7,12 +7,13 @@ body{
   font-size: 70px;
   font-weight: bold;
 }
-#top_block {
+.top_block {
   color: white;
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("../images/the-flatiron-building.png");
 }
 .main_list{
   font-size: 18px;
+
 }
 h2 {
   font-weight: bold;
@@ -34,4 +35,8 @@ h2 {
   color: White;
   background-color: dimgray;
   text-align: left;
+}
+a{
+  text-decoration: underline;
+  color: White;
 }
